@@ -1,7 +1,7 @@
-package com.baseweb.myfield.Controller;
+package com.baseweb.myfield.mybatisdemo.controller;
 
-import com.baseweb.myfield.Service.UserService;
-import com.baseweb.myfield.model.User;
+import com.baseweb.myfield.mybatisdemo.Service.UserService;
+import com.baseweb.myfield.mybatisdemo.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

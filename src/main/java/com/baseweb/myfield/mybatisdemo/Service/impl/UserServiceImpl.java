@@ -1,8 +1,8 @@
-package com.baseweb.myfield.Service.impl;
+package com.baseweb.myfield.mybatisdemo.Service.impl;
 
-import com.baseweb.myfield.Service.UserService;
-import com.baseweb.myfield.mapper.UserMapper;
-import com.baseweb.myfield.model.User;
+import com.baseweb.myfield.mybatisdemo.Service.UserService;
+import com.baseweb.myfield.mybatisdemo.mapper.UserMapper;
+import com.baseweb.myfield.mybatisdemo.model.User;
 import com.github.pagehelper.PageHelper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

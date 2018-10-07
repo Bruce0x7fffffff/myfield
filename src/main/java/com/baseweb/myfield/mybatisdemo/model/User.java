@@ -1,4 +1,4 @@
-package com.baseweb.myfield.model;
+package com.baseweb.myfield.mybatisdemo.model;
 
 public class User {
     private Integer uid;

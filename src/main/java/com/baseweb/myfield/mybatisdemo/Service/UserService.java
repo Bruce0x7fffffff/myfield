@@ -1,6 +1,6 @@
-package com.baseweb.myfield.Service;
+package com.baseweb.myfield.mybatisdemo.Service;
 
-import com.baseweb.myfield.model.User;
+import com.baseweb.myfield.mybatisdemo.model.User;
 
 import java.util.List;
 

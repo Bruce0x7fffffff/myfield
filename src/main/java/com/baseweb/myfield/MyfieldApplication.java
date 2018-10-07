@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.baseweb.myfield.mapper")
+@MapperScan("com.baseweb.myfield.mybatisdemo.mapper")
 public class MyfieldApplication {
 
 	public static void main(String[] args) {

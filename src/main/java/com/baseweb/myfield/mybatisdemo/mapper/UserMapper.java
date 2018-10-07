@@ -1,6 +1,6 @@
-package com.baseweb.myfield.mapper;
+package com.baseweb.myfield.mybatisdemo.mapper;
 
-import com.baseweb.myfield.model.User;
+import com.baseweb.myfield.mybatisdemo.model.User;
 
 import java.util.List;
 
